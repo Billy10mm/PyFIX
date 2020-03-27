@@ -1,7 +1,6 @@
 import zmq
 import example_pb2
 
-
 a = example_pb2.Example()
 a.first_name = 'Billy'
 a.last_name = '10mm'
