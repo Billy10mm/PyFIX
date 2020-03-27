@@ -6,7 +6,7 @@ import example_pb2
 
 a = example_pb2.Example()
 a.first_name = 'Billy'
-a.last_name = 'Ng'
+a.last_name = '10mm'
 a.age = 43
 a.weight = 178
 
