@@ -1,5 +1,3 @@
-#!/home/billy/miniconda3/bin/python -u
-
 import zmq
 import example_pb2
 
